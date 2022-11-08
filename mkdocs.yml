@@ -1,7 +1,10 @@
 theme:
-    name: readthedocs
+    name: material
     language: ca
     locale: en
+    icon:
+        logo: material/book-education-outline
+        repo: material/git
 
 site_name: Grau Enginyeria Informàtica
 site_description: Notes i apunts relacionats amb el Grau en Enginyeria Informàtica (GEI) cursat a la Universitat Oberta de Cataluya (UOC).
@@ -12,3 +15,15 @@ repo_url: https://git.lordwektabyte.cat/guillem/GEI
 repo_name: guillem/GEI
 
 copyright: <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Llicència de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Aquesta obra està subjecta a una llicència de <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Reconeixement-CompartirIgual 4.0 Internacional de Creative Commons</a>
+
+extra:
+  social:
+    - icon: material/linkedin
+      link: https://linkedin.com/in/gsboeck
+      name: 'Guillem S. Boeck a LinkedIn'
+    - icon: material/mastodon
+      link: https://mastodont.cat/@lordwektabyte
+      name: 'Guillem S. Boeck a LinkedIn'
+    - icon: material/twitter
+      link: https://twitter.com/@lordwektabyte
+      name: '@lordwektabyte a Twitter'
